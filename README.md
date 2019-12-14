@@ -257,7 +257,7 @@ df_enriched["lon"] = (
 ### Saving to a .parquet file
 
 ```python
-df_enriched.to_parquet("dataset.parquet.gzip", compression="gzip", index=False)
+df_enriched.to_parquet("../data/clean/dataset.parquet.gzip", compression="gzip", index=False)
 ```
 
 ## Creating the app using the Uber pickups example
