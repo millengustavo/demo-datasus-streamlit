@@ -1,6 +1,6 @@
 # Demo Application with DataSUS death records and Streamlit
 
-![datasus_app](assets/datasus_app_pt.png)
+![datasus_streamlit](assets/datasus_streamlit.gif)
 
 In Brazil, [more than 70% of the population depends only on the medical assistance provided by the government](http://bvsms.saude.gov.br/bvs/pacsaude/diretrizes.php). The Brazilian public healthcare system is called SUS (Sistema Único de Saúde). 
 
@@ -309,4 +309,4 @@ This is a very simple project that shows some amazing libraries that are being d
 
 I hope you learned something from this and I encourage you to play around with Streamlit, it's definitely amazing!
 
-![datasus_streamlit](assets/datasus_streamlit.gif)
+![datasus_app](assets/datasus_app_pt.png)
